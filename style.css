@@ -1,0 +1,79 @@
+
+.email{
+  text-align: center;
+  padding: 50px;
+}
+footer{
+  position: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: transparent;
+  color: black;
+  text-align: center;
+}
+
+ nav{
+  background-color: #333;
+  text-align: center;
+  color: white;
+  padding-bottom: 50px;
+    
+}
+
+h2{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+
+body{
+  background-color: grey;
+}
+
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+  
+nav li {
+  float: right;
+}
+  
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+nav li a:hover {
+  background-color: #111;
+}
+
+
+article{
+  background-color: rgb(12, 10, 10);
+  color: white;
+  padding: 10px;
+  text-align: justify;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.inputs table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inputs{
+  padding: 50px;
+}
